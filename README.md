@@ -5,7 +5,7 @@ Material for the _[Human-AI Interaction](https://bit.ly/polito-haii)_ (HAII) cou
 ## Slides
 
 * [Introduction and Fundamentals](./slides/01-intro.pdf)
-* Perspectives on Human-AI Interaction
+* [Perspectives on Human-AI Interaction](./slides/02-perspectives-on-HAII.pdf)
 * Designing and Evaluating Interactive AI Systems
 * Conversational Agents
 
