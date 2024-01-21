@@ -1,6 +1,6 @@
 # Human-AI Interaction (2023/2024)
 
-Material for the _Human-AI Interaction_ (HAII) course for the Ph.D. in Computer and Control Engineering at Politecnico di Torino, Italy.
+Material for the _[Human-AI Interaction](https://bit.ly/polito-haii)_ (HAII) course for the Ph.D. in Computer and Control Engineering at Politecnico di Torino, Italy.
 
 ## Slides
 
